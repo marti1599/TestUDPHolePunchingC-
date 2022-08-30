@@ -1,0 +1,49 @@
+C:\Users\marti\source\repos\TestUDPHolePunching\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.exe.config
+C:\Users\marti\source\repos\TestUDPHolePunching\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.exe
+C:\Users\marti\source\repos\TestUDPHolePunching\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.pdb
+C:\Users\marti\source\repos\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.Form1.resources
+C:\Users\marti\source\repos\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.Properties.Resources.resources
+C:\Users\marti\source\repos\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.exe
+C:\Users\marti\source\repos\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.pdb
+C:\Users\marti\Desktop\TestUDPHolePunching\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.exe.config
+C:\Users\marti\Desktop\TestUDPHolePunching\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.exe
+C:\Users\marti\Desktop\TestUDPHolePunching\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.pdb
+C:\Users\marti\Desktop\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.Form1.resources
+C:\Users\marti\Desktop\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.Properties.Resources.resources
+C:\Users\marti\Desktop\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.exe
+C:\Users\marti\Desktop\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.pdb
+C:\Users\marti\Desktop\TestUDPHolePunching\TestUDPHolePunching\bin\Debug\Open.Nat.dll
+C:\Users\marti\Desktop\TestUDPHolePunching\TestUDPHolePunching\bin\Debug\Open.Nat.xml
+C:\Users\marti\Desktop\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.CopyComplete
+C:\Users\PCLavoro\Desktop\Martino\Cazzeggio C#\TestUDPHolePunching\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.exe.config
+C:\Users\PCLavoro\Desktop\Martino\Cazzeggio C#\TestUDPHolePunching\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.exe
+C:\Users\PCLavoro\Desktop\Martino\Cazzeggio C#\TestUDPHolePunching\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.pdb
+C:\Users\PCLavoro\Desktop\Martino\Cazzeggio C#\TestUDPHolePunching\TestUDPHolePunching\bin\Debug\Open.Nat.dll
+C:\Users\PCLavoro\Desktop\Martino\Cazzeggio C#\TestUDPHolePunching\TestUDPHolePunching\bin\Debug\Open.Nat.xml
+C:\Users\PCLavoro\Desktop\Martino\Cazzeggio C#\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.AssemblyReference.cache
+C:\Users\PCLavoro\Desktop\Martino\Cazzeggio C#\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.Form1.resources
+C:\Users\PCLavoro\Desktop\Martino\Cazzeggio C#\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.Properties.Resources.resources
+C:\Users\PCLavoro\Desktop\Martino\Cazzeggio C#\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.GenerateResource.cache
+C:\Users\PCLavoro\Desktop\Martino\Cazzeggio C#\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.CoreCompileInputs.cache
+C:\Users\PCLavoro\Desktop\Martino\Cazzeggio C#\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.CopyComplete
+C:\Users\PCLavoro\Desktop\Martino\Cazzeggio C#\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.exe
+C:\Users\PCLavoro\Desktop\Martino\Cazzeggio C#\TestUDPHolePunching\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.pdb
+C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.exe.config
+C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.exe
+C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.pdb
+C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\bin\Debug\Open.Nat.dll
+C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\bin\Debug\Open.Nat.xml
+C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.Form1.resources
+C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.Properties.Resources.resources
+C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.CopyComplete
+C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.exe
+C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.pdb
