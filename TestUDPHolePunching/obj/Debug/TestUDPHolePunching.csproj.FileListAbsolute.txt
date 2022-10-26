@@ -47,3 +47,16 @@ C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\obj\Debug\TestUDP
 C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.CopyComplete
 C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.exe
 C:\Users\marti\Desktop\TestUDPHolePuncingC\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.pdb
+D:\Software Develop\UDP P2P TCP\TestUDPHolePunchingC#\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.exe.config
+D:\Software Develop\UDP P2P TCP\TestUDPHolePunchingC#\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.exe
+D:\Software Develop\UDP P2P TCP\TestUDPHolePunchingC#\TestUDPHolePunching\bin\Debug\TestUDPHolePunching.pdb
+D:\Software Develop\UDP P2P TCP\TestUDPHolePunchingC#\TestUDPHolePunching\bin\Debug\Open.Nat.dll
+D:\Software Develop\UDP P2P TCP\TestUDPHolePunchingC#\TestUDPHolePunching\bin\Debug\Open.Nat.xml
+D:\Software Develop\UDP P2P TCP\TestUDPHolePunchingC#\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.AssemblyReference.cache
+D:\Software Develop\UDP P2P TCP\TestUDPHolePunchingC#\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.Form1.resources
+D:\Software Develop\UDP P2P TCP\TestUDPHolePunchingC#\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.Properties.Resources.resources
+D:\Software Develop\UDP P2P TCP\TestUDPHolePunchingC#\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.GenerateResource.cache
+D:\Software Develop\UDP P2P TCP\TestUDPHolePunchingC#\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.CoreCompileInputs.cache
+D:\Software Develop\UDP P2P TCP\TestUDPHolePunchingC#\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.csproj.CopyComplete
+D:\Software Develop\UDP P2P TCP\TestUDPHolePunchingC#\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.exe
+D:\Software Develop\UDP P2P TCP\TestUDPHolePunchingC#\TestUDPHolePunching\obj\Debug\TestUDPHolePunching.pdb
